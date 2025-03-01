@@ -2,9 +2,8 @@
 
 
 <h2 align="left">Hi there, I'm <a href="todoroviczoran.com" target="_blank" rel="noopener noreferrer">Zoran Todorović</a>
- <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">Ujwal Kandi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
- 
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+ <a href="todoroviczoran.com">
+<img align='right' src='' width='150"'></a></h2>
 
 - 🌐 I'm a Front-end Web Developer
 - 💻 I’m currently learning Webflow
@@ -13,6 +12,7 @@
 
 
 #### Languages and Tools 
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
