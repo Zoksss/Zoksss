@@ -2,8 +2,7 @@
 
 
 <h2 align="left">Hi there, I'm <a href="todoroviczoran.com" target="_blank" rel="noopener noreferrer">Zoran Todorović</a>
- <a href="todoroviczoran.com">
-<img align='right' src='' width='150"'></a></h2>
+ <a href="todoroviczoran.com"></a></h2>
 
 - 🌐 I'm a Front-end Web Developer
 - 💻 I’m currently learning Webflow
