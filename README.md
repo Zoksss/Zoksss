@@ -45,9 +45,3 @@
 
 </span>
 <br/>
-
-
-
------
-Credit:[Zoksss](https://github.com/Zoksss)
-Last Edited on: 15/03/2025
