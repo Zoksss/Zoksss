@@ -1,4 +1,4 @@
-![Zoks](https://raw.githubusercontent.com/Zoksss/Zoksss/refs/heads/main/gh_cover.png)
+![Zoks](https://raw.githubusercontent.com/Zoksss/Zoksss/refs/heads/main/gh_cover2.png)
 
 
 <h2 align="left">Hi there, I'm <a href="todoroviczoran.com" target="_blank" rel="noopener noreferrer">Zoran Todorović</a>
